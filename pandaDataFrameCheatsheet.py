@@ -21,7 +21,11 @@ print(df_reorder)
 # print(f"\n the columns are : {y.columns.values}")
 # print(f"\n the index are : {y.index.values}")
 
-# ?https://kanoki.org/2019/03/23/pandas-rename-and-reorder-columns/ (Rename Columns)
+#References
+#https://kanoki.org/2019/03/23/pandas-rename-and-reorder-columns/ (Rename Columns)
+#https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html (matplot lib api)
+#https://www.youtube.com/watch?v=UO98lJQ3QGI (tutorial to follow)
+
 
 
 
